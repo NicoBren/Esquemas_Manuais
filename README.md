@@ -8,9 +8,9 @@ Todos os manuais e esquemas aqui presentes, foram encontrados na internet e orga
 Creditos:
 
 Esquemas: 
-Original Game Boy (DMG)
-Game Boy Pocket (MGB)
-Game Boy Light (MGL)
-Game Boy Advance SP AGS-001
+Original Game Boy (DMG); 
+Game Boy Pocket (MGB); 
+Game Boy Light (MGL); 
+Game Boy Advance SP AGS-001.
 
-Por: Gekkio em seu github: https://github.com/Gekkio/gb-schematics/tree/main
+Por: Gekkio em seu Github: https://github.com/Gekkio/gb-schematics/tree/main
